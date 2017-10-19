@@ -37,7 +37,7 @@ setup(
         'simple_email_confirmation.tests.myproject',
         'simple_email_confirmation.tests.myproject.myapp',
     ],
-    install_requires=['django>=1.5.0'],
+    install_requires=['django>=1.7.0'],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Environment :: Web Environment",
@@ -46,12 +46,11 @@ setup(
         "Operating System :: OS Independent",
         "Programming Language :: Python",
         "Programming Language :: Python :: 2",
-        "Programming Language :: Python :: 2.6",
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.2",
-        "Programming Language :: Python :: 3.3",
         "Programming Language :: Python :: 3.4",
+        "Programming Language :: Python :: 3.5",
+        "Programming Language :: Python :: 3.6",
         'Topic :: Utilities',
         "Framework :: Django",
     ]
